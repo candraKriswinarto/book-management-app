@@ -1,7 +1,7 @@
 This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
 <ins>From Preview</ins>
-![Project Preview](src/images/addBook.png)
+![Project Preview](src/images/addbook.png)
 <ins>List Book Preview</ins>
 ![Project Preview](src/images/listbook.png)
 
